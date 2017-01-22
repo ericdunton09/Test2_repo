@@ -2,7 +2,8 @@
 This is another test from my MAC
 ##SECONDARY headline
 ###THIRD
-*THIS
-*IS
-*MY
-*LIST
+* THIS
+* IS
+* MY
+* LIST
+###BETTER
